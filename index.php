@@ -21,7 +21,7 @@ include("navbar/navbar.php");
     <div id="overlay" class="">
         <div class="ml-[11%] mt-[21%] text-white text-[550%] font-bold">
             <div data-aos="fade-up" data-aos-delay="500" data-aos-duration="1500">
-                Design
+                Designs
             </div>
             <div class="mt-[-1%] ml-[5%]" data-aos="fade-up" data-aos-delay="650" data-aos-duration="1500">
                 & Build.
